@@ -1,0 +1,3483 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Headlights",
+      "value": 365,
+      "category": "Car Parts"
+    },
+    {
+      "id": 2,
+      "name": "Ignition Coil",
+      "value": 225,
+      "category": "Car Parts"
+    },
+    {
+      "id": 3,
+      "name": "Air Filter",
+      "value": 10000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 4,
+      "name": "Small Gas Cylinder (Full)",
+      "value": 1200,
+      "category": "Car Parts"
+    },
+    {
+      "id": 5,
+      "name": "Alternator",
+      "value": 1090,
+      "category": "Car Parts"
+    },
+    {
+      "id": 6,
+      "name": "Machete",
+      "value": 900,
+      "category": "Car Parts"
+    },
+    {
+      "id": 7,
+      "name": "T2 Turbo",
+      "value": 1585,
+      "category": "Car Parts"
+    },
+    {
+      "id": 8,
+      "name": "Medium Gas Cylinder (Full)",
+      "value": 1700,
+      "category": "Car Parts"
+    },
+    {
+      "id": 9,
+      "name": "Large Gas Cylinder (Full)",
+      "value": 2200,
+      "category": "Car Parts"
+    },
+    {
+      "id": 10,
+      "name": "Fiber Glass Cloth",
+      "value": 5000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 11,
+      "name": "Phone 8",
+      "value": 150,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 12,
+      "name": "Crankshaft",
+      "value": 1365,
+      "category": "Car Parts"
+    },
+    {
+      "id": 13,
+      "name": "Haltech ECU",
+      "value": 1300,
+      "category": "Car Parts"
+    },
+    {
+      "id": 14,
+      "name": "Phone 14",
+      "value": 400,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 15,
+      "name": "Intercooler",
+      "value": 820,
+      "category": "Car Parts"
+    },
+    {
+      "id": 16,
+      "name": "Camber Arm",
+      "value": 270,
+      "category": "Car Parts"
+    },
+    {
+      "id": 17,
+      "name": "Large Gas Cylinder (Empty)",
+      "value": 2000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 18,
+      "name": "Medium Gas Cylinder (Empty)",
+      "value": 1500,
+      "category": "Car Parts"
+    },
+    {
+      "id": 19,
+      "name": "Rusted VIN",
+      "value": 2145,
+      "category": "Car Parts"
+    },
+    {
+      "id": 20,
+      "name": "Wrench",
+      "value": 450,
+      "category": "Car Parts"
+    },
+    {
+      "id": 21,
+      "name": "Small Gas Cylinder (Empty)",
+      "value": 1000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 22,
+      "name": "Spark Plugs",
+      "value": 520,
+      "category": "Car Parts"
+    },
+    {
+      "id": 23,
+      "name": "Pistol",
+      "value": 5000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 24,
+      "name": "Hunters Knife",
+      "value": 300,
+      "category": "Car Parts"
+    },
+    {
+      "id": 25,
+      "name": "Head Unit",
+      "value": 1785,
+      "category": "Car Parts"
+    },
+    {
+      "id": 26,
+      "name": "Rockers",
+      "value": 910,
+      "category": "Car Parts"
+    },
+    {
+      "id": 27,
+      "name": "Copper Cables",
+      "value": 5000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 28,
+      "name": "Titanium Wheel Nuts",
+      "value": 620,
+      "category": "Car Parts"
+    },
+    {
+      "id": 29,
+      "name": "Tail Lights",
+      "value": 180,
+      "category": "Car Parts"
+    },
+    {
+      "id": 30,
+      "name": "Extractors",
+      "value": 1105,
+      "category": "Car Parts"
+    },
+    {
+      "id": 31,
+      "name": "T3 Turbo",
+      "value": 2110,
+      "category": "Car Parts"
+    },
+    {
+      "id": 32,
+      "name": "Adjustable Coilovers",
+      "value": 810,
+      "category": "Car Parts"
+    },
+    {
+      "id": 33,
+      "name": "Starter Motor",
+      "value": 975,
+      "category": "Car Parts"
+    },
+    {
+      "id": 34,
+      "name": "Scrap Metal",
+      "value": 80,
+      "category": "Car Parts"
+    },
+    {
+      "id": 35,
+      "name": "Rocker Cover",
+      "value": 520,
+      "category": "Car Parts"
+    },
+    {
+      "id": 36,
+      "name": "Salvaged Broken Ipod",
+      "value": 200,
+      "category": "Car Parts"
+    },
+    {
+      "id": 37,
+      "name": "Carbon Fibre",
+      "value": 5000,
+      "category": "Car Parts"
+    },
+    {
+      "id": 38,
+      "name": "Salvaged Broken Iphone",
+      "value": 350,
+      "category": "Car Parts"
+    },
+    {
+      "id": 39,
+      "name": "Oil Filter",
+      "value": 80,
+      "category": "Car Parts"
+    },
+    {
+      "id": 40,
+      "name": "Radiator",
+      "value": 750,
+      "category": "Car Parts"
+    },
+    {
+      "id": 41,
+      "name": "ABS Unit",
+      "value": 135,
+      "category": "Car Parts"
+    },
+    {
+      "id": 42,
+      "name": "Electronics",
+      "value": 250,
+      "category": "Car Parts"
+    },
+    {
+      "id": 43,
+      "name": "Salvaged Scrap Metal",
+      "value": 50,
+      "category": "Car Parts"
+    },
+    {
+      "id": 44,
+      "name": "Hydraulic Hand Break",
+      "value": 1040,
+      "category": "Car Parts"
+    },
+    {
+      "id": 45,
+      "name": "Coke Can",
+      "value": 2,
+      "category": "Car Parts"
+    },
+    {
+      "id": 46,
+      "name": "Car Battery",
+      "value": 950,
+      "category": "Car Parts"
+    },
+    {
+      "id": 47,
+      "name": "Phone X",
+      "value": 200,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 48,
+      "name": "Salvaged Go Pro",
+      "value": 450,
+      "category": "Car Parts"
+    },
+    {
+      "id": 49,
+      "name": "Distributor",
+      "value": 180,
+      "category": "Car Parts"
+    },
+    {
+      "id": 50,
+      "name": "Beer Can",
+      "value": 2,
+      "category": "Car Parts"
+    },
+    {
+      "id": 51,
+      "name": "Fog Lights",
+      "value": 365,
+      "category": "Car Parts"
+    },
+    {
+      "id": 52,
+      "name": "Strut Brace",
+      "value": 1300,
+      "category": "Car Parts"
+    },
+    {
+      "id": 53,
+      "name": "Fuel Pump",
+      "value": 135,
+      "category": "Car Parts"
+    },
+    {
+      "id": 54,
+      "name": "Golden Perch",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 55,
+      "name": "Mulloway",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 56,
+      "name": "Pufferfish",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 57,
+      "name": "Ocean Jacket",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 58,
+      "name": "Atlantic Wolffish",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 59,
+      "name": "Morwhong",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 60,
+      "name": "Broadbill",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 61,
+      "name": "Trevella",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 62,
+      "name": "King Mackerel",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 63,
+      "name": "Australian Anchovy",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 64,
+      "name": "Blue Marlin",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 65,
+      "name": "Salmon",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 66,
+      "name": "Escolar",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 67,
+      "name": "Albacore",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 68,
+      "name": "Green Eel",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 69,
+      "name": "Doversole",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 70,
+      "name": "Grouper",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 71,
+      "name": "Ling",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 72,
+      "name": "Stingray",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 73,
+      "name": "Anglerfish",
+      "value": 4000,
+      "category": "Fish"
+    },
+    {
+      "id": 74,
+      "name": "Blue Crab",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 75,
+      "name": "Black Marlin",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 76,
+      "name": "Boarfish",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 77,
+      "name": "Carp",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 78,
+      "name": "Wahoo",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 79,
+      "name": "Scollop",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 80,
+      "name": "Barramundi",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 81,
+      "name": "Archerfish",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 82,
+      "name": "Musky",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 83,
+      "name": "Gummy Shark",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 84,
+      "name": "Cod",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 85,
+      "name": "Australian Herring",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 86,
+      "name": "Southern Garfish",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 87,
+      "name": "Bluehead Wrasse",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 88,
+      "name": "Oreo Dory",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 89,
+      "name": "Pollock",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 90,
+      "name": "Dutch Fish",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 91,
+      "name": "Brown Eel",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 92,
+      "name": "Swordfish",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 93,
+      "name": "Sculpin",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 94,
+      "name": "Flounder",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 95,
+      "name": "3 Eyed Fish",
+      "value": 15000,
+      "category": "Fish"
+    },
+    {
+      "id": 96,
+      "name": "Yellowfin Tuna",
+      "value": 4250,
+      "category": "Fish"
+    },
+    {
+      "id": 97,
+      "name": "Chadphin",
+      "value": 21420,
+      "category": "Fish"
+    },
+    {
+      "id": 98,
+      "name": "Murray Cod",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 99,
+      "name": "Whale Shark",
+      "value": 4250,
+      "category": "Fish"
+    },
+    {
+      "id": 100,
+      "name": "Sunfish",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 101,
+      "name": "Trumpetfish",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 102,
+      "name": "Trout",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 103,
+      "name": "Triggerfish",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 104,
+      "name": "Dungeness Crab",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 105,
+      "name": "Atlantic Salmon",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 106,
+      "name": "Toadfish",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 107,
+      "name": "Catfish",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 108,
+      "name": "Cavefish",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 109,
+      "name": "Tiger Flathead",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 110,
+      "name": "Grenadier",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 111,
+      "name": "Viperfish",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 112,
+      "name": "Sturgeon",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 113,
+      "name": "Speckled Sea Trout",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 114,
+      "name": "King Whiting",
+      "value": 4000,
+      "category": "Fish"
+    },
+    {
+      "id": 115,
+      "name": "Southern Tuna",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 116,
+      "name": "Sockeye Salmon",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 117,
+      "name": "Clownfish",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 118,
+      "name": "Hogfish",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 119,
+      "name": "Ocean Perch",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 120,
+      "name": "Snapper",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 121,
+      "name": "Snake Eel",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 122,
+      "name": "Yellow Tail",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 123,
+      "name": "Blue Tang",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 124,
+      "name": "Haddock",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 125,
+      "name": "Halibut",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 126,
+      "name": "Rainbow Trout",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 127,
+      "name": "Silver Trevally",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 128,
+      "name": "Pike",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 129,
+      "name": "Blue Warehou",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 130,
+      "name": "Red Snapper",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 131,
+      "name": "Dolphinfish",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 132,
+      "name": "Silver Perch",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 133,
+      "name": "Shortfin Batfish",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 134,
+      "name": "Blobfish",
+      "value": 4000,
+      "category": "Fish"
+    },
+    {
+      "id": 135,
+      "name": "Sandy Sprat",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 136,
+      "name": "Brook Trout",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 137,
+      "name": "Sand Whiting",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 138,
+      "name": "Pufferfish w/ Carrot",
+      "value": 15000,
+      "category": "Fish"
+    },
+    {
+      "id": 139,
+      "name": "Sailfish",
+      "value": 4250,
+      "category": "Fish"
+    },
+    {
+      "id": 140,
+      "name": "Bluefin Tuna",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 141,
+      "name": "Redfish",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 142,
+      "name": "Flathead",
+      "value": 2000,
+      "category": "Fish"
+    },
+    {
+      "id": 143,
+      "name": "Orange Roughy",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 144,
+      "name": "Blackfin Tuna",
+      "value": 3250,
+      "category": "Fish"
+    },
+    {
+      "id": 145,
+      "name": "Snow Crab",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 146,
+      "name": "Brown Trout",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 147,
+      "name": "Australian Pilchard",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 148,
+      "name": "Great Barracuda",
+      "value": 3000,
+      "category": "Fish"
+    },
+    {
+      "id": 149,
+      "name": "Lion Fish",
+      "value": 2750,
+      "category": "Fish"
+    },
+    {
+      "id": 150,
+      "name": "Black Bream",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 151,
+      "name": "John Dory",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 152,
+      "name": "Gemfish",
+      "value": 3750,
+      "category": "Fish"
+    },
+    {
+      "id": 153,
+      "name": "Greenback Flounder",
+      "value": 3500,
+      "category": "Fish"
+    },
+    {
+      "id": 154,
+      "name": "Baby Pufferfish",
+      "value": 15000,
+      "category": "Fish"
+    },
+    {
+      "id": 155,
+      "name": "Banded Butterfly",
+      "value": 2250,
+      "category": "Fish"
+    },
+    {
+      "id": 156,
+      "name": "Amberjack",
+      "value": 2500,
+      "category": "Fish"
+    },
+    {
+      "id": 157,
+      "name": "Power Drill (Steel Bit)",
+      "value": 7000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 158,
+      "name": "Hammer",
+      "value": 600,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 159,
+      "name": "Duct Tape",
+      "value": 50,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 160,
+      "name": "Polishing Kit",
+      "value": 250,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 161,
+      "name": "Cleaning Cloths",
+      "value": 50,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 162,
+      "name": "Pliers",
+      "value": 100,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 163,
+      "name": "Esky",
+      "value": 7500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 164,
+      "name": "Pack of Steel Drill Bits",
+      "value": 300,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 165,
+      "name": "Hatchet",
+      "value": 4500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 166,
+      "name": "Leather Resin 1L",
+      "value": 300,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 167,
+      "name": "Ziptie",
+      "value": 1000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 168,
+      "name": "Crowbar",
+      "value": 500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 169,
+      "name": "Rope",
+      "value": 600,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 170,
+      "name": "Jerry Can",
+      "value": 200,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 171,
+      "name": "Fire Extinguisher",
+      "value": 750,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 172,
+      "name": "Handsaw",
+      "value": 5000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 173,
+      "name": "Sledge Hammer",
+      "value": 1600,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 174,
+      "name": "Handheld Radio",
+      "value": 200,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 175,
+      "name": "Metal Chain",
+      "value": 25000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 176,
+      "name": "Rubber",
+      "value": 8000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 177,
+      "name": "Metal Wool",
+      "value": 300,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 178,
+      "name": "Patch Kit",
+      "value": 1800,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 179,
+      "name": "Angle Grinder",
+      "value": 20000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 180,
+      "name": "Pack of High Speed Drill Bits",
+      "value": 500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 181,
+      "name": "Peroxide 2L",
+      "value": 150,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 182,
+      "name": "Bolt Cutters",
+      "value": 50000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 183,
+      "name": "Global Positioning System",
+      "value": 1000,
+      "category": "Unsellable",
+      "sellable": false,
+      "sellLocation": "Electronic Store"
+    },
+    {
+      "id": 184,
+      "name": "Sodium Chloride (Salt) 1L",
+      "value": 100,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 185,
+      "name": "Binoculars",
+      "value": 1000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 186,
+      "name": "Fiber Glass Kit",
+      "value": 1000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 187,
+      "name": "Screwdriver",
+      "value": 650,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 188,
+      "name": "Phenyl Acetic Acid 1L",
+      "value": 500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 189,
+      "name": "Leather Edger",
+      "value": 500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 191,
+      "name": "Google Pixel 4",
+      "value": 1099,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 192,
+      "name": "Galaxy Flip",
+      "value": 1300,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 193,
+      "name": "Digital Video Camera",
+      "value": 3500,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 194,
+      "name": "USB Stick (Empty)",
+      "value": 50,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 195,
+      "name": "Galaxy S20+",
+      "value": 1299,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 200,
+      "name": "Mwave Business Card",
+      "value": 0,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 201,
+      "name": "Phone 11",
+      "value": 1199,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 202,
+      "name": "Galaxy S20",
+      "value": 1149,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 203,
+      "name": "Computer Keyboard",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 204,
+      "name": "Stray",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 205,
+      "name": "Brolex Watch",
+      "value": 4250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 206,
+      "name": "Necklace",
+      "value": 200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 207,
+      "name": "Apple Watch",
+      "value": 9000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 208,
+      "name": "Half Used XXS Condoms",
+      "value": 50,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 209,
+      "name": "Jimmy Choo Shoes",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 210,
+      "name": "Call of Duty MW2",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 211,
+      "name": "Assorted Video Games",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 212,
+      "name": "Bitcoin",
+      "value": 58455,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 213,
+      "name": "Fifa 23",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 214,
+      "name": "NBA 2K",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 215,
+      "name": "Nintendo Wii",
+      "value": 400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 216,
+      "name": "Designer Jacket",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 217,
+      "name": "Amethyst",
+      "value": 2470,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 218,
+      "name": "Sapphire",
+      "value": 2750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 219,
+      "name": "Valheim",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 220,
+      "name": "Diamond Encrusted Rose Gold Watch",
+      "value": 29000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 221,
+      "name": "Old Nokia",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 222,
+      "name": "Bottle of Jack",
+      "value": 125,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 223,
+      "name": "16ct Diamond Tiara",
+      "value": 30000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 224,
+      "name": "Playstation 2",
+      "value": 300,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 225,
+      "name": "Team Liquid Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 226,
+      "name": "Cuban Cigars",
+      "value": 450,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 227,
+      "name": "Garnet",
+      "value": 1450,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 228,
+      "name": "Track Pants",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 229,
+      "name": "Aviators",
+      "value": 200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 230,
+      "name": "Garden Gnome",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 231,
+      "name": "Jaegermeister",
+      "value": 220,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 232,
+      "name": "God of War Ragnarok",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 233,
+      "name": "Garmin Fenix",
+      "value": 6000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 234,
+      "name": "Starwars Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 235,
+      "name": "Gaming Mouse",
+      "value": 2000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 236,
+      "name": "Diamond",
+      "value": 20100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 237,
+      "name": "Quackamon Scarlet",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 238,
+      "name": "Antique Compass",
+      "value": 400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 239,
+      "name": "Diamond Encrusted White Gold Watch",
+      "value": 11500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 240,
+      "name": "Phone",
+      "value": 1000,
+      "category": "Unsellable",
+      "sellable": false
+    },
+    {
+      "id": 241,
+      "name": "Guardians of the Galaxy Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 242,
+      "name": "Xbox",
+      "value": 350,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 243,
+      "name": "iPod",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 244,
+      "name": "Astralis Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 245,
+      "name": "Rose Gold Diamond Ring",
+      "value": 4000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 246,
+      "name": "Control",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 247,
+      "name": "Peridot",
+      "value": 2250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 248,
+      "name": "36ct Gold Necklace",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 249,
+      "name": "Panties",
+      "value": 5,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 250,
+      "name": "32ct White Gold Diamond Ring",
+      "value": 14000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 251,
+      "name": "Portable Harddrive",
+      "value": 400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 252,
+      "name": "PS5 Controller",
+      "value": 7500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 253,
+      "name": "Halo Infinite",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 254,
+      "name": "Luminosity Gaming Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 255,
+      "name": "Diamond Necklace",
+      "value": 17000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 256,
+      "name": "Laptop",
+      "value": 2500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 257,
+      "name": "Gold Ring",
+      "value": 6000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 258,
+      "name": "Battlefield 2042",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 259,
+      "name": "Silverware",
+      "value": 50,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 260,
+      "name": "Sunglasses",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 261,
+      "name": "Lego City",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 262,
+      "name": "Gaming Keyboard",
+      "value": 3000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 263,
+      "name": "Beats Headphones",
+      "value": 550,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 264,
+      "name": "African Lovemaker",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 265,
+      "name": "Spiderman Miles",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 266,
+      "name": "Blue Sapphire Earrings",
+      "value": 2250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 267,
+      "name": "Emerald",
+      "value": 15200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 268,
+      "name": "Goat Simulator",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 269,
+      "name": "Model Plane",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 270,
+      "name": "LifeInvader Phone",
+      "value": 1150,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 271,
+      "name": "Cloud9 Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 272,
+      "name": "Casio Watch",
+      "value": 40,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 273,
+      "name": "Brand New XXXXL Condom",
+      "value": 50,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 274,
+      "name": "Gaming Headset",
+      "value": 600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 275,
+      "name": "60s Television Set",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 276,
+      "name": "Microscope",
+      "value": 200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 277,
+      "name": "Diamond Ring",
+      "value": 8000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 278,
+      "name": "Louis Vuitton Shoes",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 279,
+      "name": "65 Inch TV",
+      "value": 3000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 280,
+      "name": "Metal Detector",
+      "value": 300,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 281,
+      "name": "Loose Change",
+      "value": 10,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 282,
+      "name": "Etheriumcoin",
+      "value": 2937,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 283,
+      "name": "Diamond Encrusted Watch",
+      "value": 8500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 284,
+      "name": "Nintendo 3DS",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 285,
+      "name": "Tshirt",
+      "value": 200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 286,
+      "name": "Gold Coin",
+      "value": 11800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 287,
+      "name": "Yeezys",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 288,
+      "name": "Xbox Series X",
+      "value": 7000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 289,
+      "name": "Xbox One",
+      "value": 1500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 290,
+      "name": "Elvis Presley - Vinyl Record",
+      "value": 12390,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 291,
+      "name": "Xbox 360",
+      "value": 450,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 292,
+      "name": "Half pack of Winnie Blues",
+      "value": 150,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 293,
+      "name": "14ct Rose Gold Diamond Ring",
+      "value": 9000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 294,
+      "name": "Silver Bar",
+      "value": 19620,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 295,
+      "name": "Batman Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 296,
+      "name": "Bonkcoin",
+      "value": 2,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 297,
+      "name": "Toaster",
+      "value": 40,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 298,
+      "name": "Opal",
+      "value": 1625,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 299,
+      "name": "Vintage Coins",
+      "value": 2250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 300,
+      "name": "Golden Goblet",
+      "value": 1750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 301,
+      "name": "Vase",
+      "value": 200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 302,
+      "name": "Milk",
+      "value": 50,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 303,
+      "name": "Silver Locket",
+      "value": 1150,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 304,
+      "name": "Quackamon Violet",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 305,
+      "name": "Underwear",
+      "value": 30,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 306,
+      "name": "Basic Fishing Rod (No Bait)",
+      "value": 450,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 307,
+      "name": "Hogwarts Legacy",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 308,
+      "name": "Salvaged Golden Goblet",
+      "value": 1200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 309,
+      "name": "God of War",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 310,
+      "name": "Zircon",
+      "value": 22200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 311,
+      "name": "HTC Vive",
+      "value": 7500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 312,
+      "name": "Go Pro",
+      "value": 1400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 313,
+      "name": "Open Tomaty Sauce",
+      "value": 8,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 314,
+      "name": "DVD Player",
+      "value": 1200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 315,
+      "name": "Dunlop Volleys",
+      "value": 550,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 316,
+      "name": "Sculpture",
+      "value": 3500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 317,
+      "name": "Silver Coin",
+      "value": 6200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 318,
+      "name": "Bronze Coin",
+      "value": 3400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 319,
+      "name": "RTX3080 Ti",
+      "value": 30000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 320,
+      "name": "Rare Coin",
+      "value": 99999,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 321,
+      "name": "A50",
+      "value": 1050,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 322,
+      "name": "Omega Watch",
+      "value": 400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 323,
+      "name": "Wallet",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 324,
+      "name": "Harry Potter Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 325,
+      "name": "Modern Warfare PS4",
+      "value": 70,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 326,
+      "name": "Last of Us PS4",
+      "value": 70,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 327,
+      "name": "Pink Diamond",
+      "value": 40500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 328,
+      "name": "Playstation 4",
+      "value": 1600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 329,
+      "name": "Spyro PS3",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 330,
+      "name": "MSI RTX4090",
+      "value": 50000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 331,
+      "name": "Ear Rings",
+      "value": 300,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 332,
+      "name": "Playstation 3",
+      "value": 500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 333,
+      "name": "Pringles Can",
+      "value": 5,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 334,
+      "name": "Sports Memorabilia",
+      "value": 50,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 335,
+      "name": "Pinup Girl Poster",
+      "value": 40,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 336,
+      "name": "Painting",
+      "value": 150,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 337,
+      "name": "White Gold Ruby Ring",
+      "value": 12000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 338,
+      "name": "Diamond Earrings",
+      "value": 1500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 339,
+      "name": "OpTic Gaming Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 340,
+      "name": "PS VR",
+      "value": 12000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 341,
+      "name": "24ct Gold Necklace",
+      "value": 13000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 342,
+      "name": "G2 Esports Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 343,
+      "name": "Fnatic Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 344,
+      "name": "Nintendo Switch",
+      "value": 600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 345,
+      "name": "Smash Bros Switch",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 346,
+      "name": "Quackamon Switch",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 347,
+      "name": "NRG Esports Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 348,
+      "name": "Deadspace",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 349,
+      "name": "Empty Wallet",
+      "value": 150,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 350,
+      "name": "Cyberpunk",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 351,
+      "name": "32 inch Plasma",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 352,
+      "name": "Fortnite Xbox One",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 353,
+      "name": "Blue Diamond",
+      "value": 37000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 354,
+      "name": "Ninjago Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 355,
+      "name": "Pink Sapphire Necklace",
+      "value": 19000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 356,
+      "name": "War Medals",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 357,
+      "name": "Horizon Forbidden West",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 358,
+      "name": "Oculas Rift",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 359,
+      "name": "Smash Bros 3DS",
+      "value": 80,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 360,
+      "name": "Gotham Knights",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 361,
+      "name": "Minecraft 360",
+      "value": 60,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 362,
+      "name": "S10",
+      "value": 1200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 363,
+      "name": "Minecraft Lego",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 364,
+      "name": "Gaming Computer",
+      "value": 6000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 365,
+      "name": "ASUS RTX4080",
+      "value": 35000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 366,
+      "name": "Gold Necklace",
+      "value": 2250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 367,
+      "name": "Ruby",
+      "value": 6600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 368,
+      "name": "Books",
+      "value": 40,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 369,
+      "name": "18ct Gold Signet Ring",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 370,
+      "name": "iPad",
+      "value": 1500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 371,
+      "name": "PS5 Console",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 372,
+      "name": "Air Jordans",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 373,
+      "name": "Levis Jeans",
+      "value": 250,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 374,
+      "name": "24ct White Gold Diamond Ring",
+      "value": 16000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 375,
+      "name": "Gold Bar",
+      "value": 35000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 376,
+      "name": "Saints Row",
+      "value": 100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 377,
+      "name": "Team SoloMid Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 378,
+      "name": "24ct Diamond Tiara",
+      "value": 34000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 379,
+      "name": "Topaz",
+      "value": 3000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 380,
+      "name": "FaZe Clan Jersey",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 381,
+      "name": "Gold Diamond Ring",
+      "value": 8000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 382,
+      "name": "RTX3080",
+      "value": 25000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 383,
+      "name": "TV Remote",
+      "value": 15,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 384,
+      "name": "Black Lotus MTG Card",
+      "value": 42000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 385,
+      "name": "X-MEN No.1",
+      "value": 150000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 386,
+      "name": "Kaws Companion (Gold)",
+      "value": 4500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 387,
+      "name": "Amazing Fantasy 15",
+      "value": 385000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 388,
+      "name": "Garen Toy",
+      "value": 1350,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 389,
+      "name": "1961 Wilt BB Card",
+      "value": 35000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 390,
+      "name": "Original Mewtwo Holo",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 391,
+      "name": "Captain America No. 1",
+      "value": 343057,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 392,
+      "name": "Justice League of America No. 1",
+      "value": 215100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 393,
+      "name": "Madonna - Vinyl Record",
+      "value": 4425,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 394,
+      "name": "Kaws Companion (Half-Half)",
+      "value": 3200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 395,
+      "name": "Queen - Vinyl Record",
+      "value": 7965,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 396,
+      "name": "Future Trunks Toy (SSJ)",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 397,
+      "name": "All Star Comics No.8",
+      "value": 325500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 398,
+      "name": "Fantastic Four No. 1",
+      "value": 300000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 399,
+      "name": "Regirock Gold Star Holo",
+      "value": 20000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 400,
+      "name": "Led Zeppelin - Vinyl Record",
+      "value": 5310,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 401,
+      "name": "Deadpool FunkoPop 2",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 402,
+      "name": "Golem Crystal Secret Holo",
+      "value": 25000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 403,
+      "name": "Ancestral Recall MTG Card",
+      "value": 20000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 404,
+      "name": "Wonder Comics No.1",
+      "value": 34000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 405,
+      "name": "Tales to Astonish No. 27",
+      "value": 205501,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 406,
+      "name": "Detective Comics No. 27",
+      "value": 350000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 407,
+      "name": "Whiz Comics No. 2",
+      "value": 281000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 408,
+      "name": "1st Edition Shadowless Venusaur",
+      "value": 7000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 409,
+      "name": "Ironman FunkoPop",
+      "value": 350,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 410,
+      "name": "Action Comics No.1",
+      "value": 648000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 411,
+      "name": "Yamcha Toy",
+      "value": 400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 412,
+      "name": "Vaporeon Gold Star Holo",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 413,
+      "name": "Mox Emerald MTG Card",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 414,
+      "name": "U2 - Vinyl Record",
+      "value": 3540,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 415,
+      "name": "Zed Toy",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 416,
+      "name": "Lara Croft FunkoPop",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 417,
+      "name": "Baby Yoda Figure",
+      "value": 600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 418,
+      "name": "1986 Kareem BB Card",
+      "value": 12500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 419,
+      "name": "Dark Dugtrio Holo",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 420,
+      "name": "Dragonite Holo",
+      "value": 2400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 421,
+      "name": "Jurassic Park FunkoPop 2",
+      "value": 950,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 422,
+      "name": "The Incredible Hulk No. 1",
+      "value": 128000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 423,
+      "name": "More Fun Comics No. 73",
+      "value": 104563,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 424,
+      "name": "Yasuo Toy",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 425,
+      "name": "Shrek FunkoPop",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 426,
+      "name": "1985 Jordan BB Card",
+      "value": 25000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 427,
+      "name": "Vegeta Toy (SSJ)",
+      "value": 850,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 428,
+      "name": "Mox Sapphire MTG Card",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 429,
+      "name": "Goku FunkoPop",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 430,
+      "name": "Boxed RC Bandito",
+      "value": 18000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 431,
+      "name": "Journey Into Mystery No. 83",
+      "value": 275000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 432,
+      "name": "Monkey D. Luffy Toy",
+      "value": 800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 433,
+      "name": "1948 Mikan BB Card",
+      "value": 90000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 434,
+      "name": "Shadowless Alakazam Holo",
+      "value": 5000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 435,
+      "name": "1969 Kareem BB Card",
+      "value": 40000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 436,
+      "name": "Volcanic Island MTG Card",
+      "value": 19500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 437,
+      "name": "Naruto Uzumaki Toy",
+      "value": 900,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 438,
+      "name": "Kaws Companion (Grey)",
+      "value": 3800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 439,
+      "name": "Captain America No. 2",
+      "value": 113525,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 440,
+      "name": "Pink Floyd - Vinyl Record",
+      "value": 3540,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 441,
+      "name": "Red Raven Comics 1",
+      "value": 37500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 442,
+      "name": "Itachi Uchiha Toy",
+      "value": 600,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 443,
+      "name": "The Beatles - Vinyl Record",
+      "value": 123900,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 444,
+      "name": "Goku Toy (SSJ)",
+      "value": 1100,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 445,
+      "name": "Rainbow Pikachu Vmax Holo",
+      "value": 1200,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 446,
+      "name": "Frieza Toy",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 447,
+      "name": "Amazing Spider-Man No.1",
+      "value": 67500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 448,
+      "name": "Vegeta Toy (Great Ape)",
+      "value": 900,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 449,
+      "name": "Deadpool FunkoPop",
+      "value": 1050,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 450,
+      "name": "Mind Twist MTG Card",
+      "value": 18000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 451,
+      "name": "Android 18 Toy",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 452,
+      "name": "Suspense Comics No. 3",
+      "value": 262900,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 453,
+      "name": "Nirvana - Vinyl Record",
+      "value": 3098,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 454,
+      "name": "Raikou Holo",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 455,
+      "name": "Sabrinas Gengar Holo",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 456,
+      "name": "The Rolling Stones - Vinyl Record",
+      "value": 14160,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 457,
+      "name": "Batman Toy",
+      "value": 850,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 458,
+      "name": "Amazing Spider-Man No.2",
+      "value": 36000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 459,
+      "name": "Underground Sea MTG Card",
+      "value": 11500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 460,
+      "name": "Shining Raichu Holo",
+      "value": 25000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 461,
+      "name": "1st Ed Shadowless Blastoise Holo",
+      "value": 8500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 462,
+      "name": "Genesis - Vinyl Record",
+      "value": 5310,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 463,
+      "name": "Sex Pistols - Vinyl Record",
+      "value": 17700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 464,
+      "name": "Harry Potter FunkoPop",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 465,
+      "name": "Machamp Holo",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 466,
+      "name": "1st Ed Charizard 1999 Holo",
+      "value": 55000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 467,
+      "name": "Time Twister MTG Card",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 468,
+      "name": "Kakashi Hatake Toy",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 469,
+      "name": "Showcase No. 22",
+      "value": 149375,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 470,
+      "name": "Michael Jackson - Vinyl Record",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 471,
+      "name": "1957 Cousy BB Card",
+      "value": 12500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 472,
+      "name": "The Quarrymen - Vinyl Record",
+      "value": 354400,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 473,
+      "name": "Dark Gyarados Holo",
+      "value": 15000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 474,
+      "name": "Pikachu Holo",
+      "value": 2800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 475,
+      "name": "Prince - Vinyl Record",
+      "value": 5310,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 476,
+      "name": "Superman FunkoPop",
+      "value": 750,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 477,
+      "name": "Archie Comics No. 1",
+      "value": 167300,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 478,
+      "name": "Ron Weasley FunkoPop",
+      "value": 450,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 479,
+      "name": "Jill Valentine FunkoPop",
+      "value": 10000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 480,
+      "name": "Sasuke Uchiha Toy",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 481,
+      "name": "Jurassic Park FunkoPop",
+      "value": 650,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 482,
+      "name": "Amazing Man Comics 5",
+      "value": 31625,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 483,
+      "name": "1957 Russell BB Card",
+      "value": 85000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 484,
+      "name": "Captain America FunkoPop",
+      "value": 700,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 485,
+      "name": "Marvel Comics No. 1",
+      "value": 140000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 486,
+      "name": "Shining Charizard Holo",
+      "value": 24000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 487,
+      "name": "Daring Mystery Comics 1",
+      "value": 33500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 488,
+      "name": "Olivia Newton-John - Vinyl Record",
+      "value": 8850,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 489,
+      "name": "Mox Ruby MTG Card",
+      "value": 17800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 490,
+      "name": "1959 Mikan BB Card",
+      "value": 12500,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 491,
+      "name": "1986 Jordan BB Card",
+      "value": 75000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 492,
+      "name": "Ex Deoxys Rayquaza Holo",
+      "value": 8000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 493,
+      "name": "Copy Artifact MTG Card",
+      "value": 12000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 494,
+      "name": "All American Comics No. 16",
+      "value": 80000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 495,
+      "name": "Shadowless Chansey Holo",
+      "value": 7800,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 496,
+      "name": "Jolteon Gold Star Holo",
+      "value": 40000,
+      "category": "Pawn Shop"
+    },
+    {
+      "id": 498,
+      "name": "Animal Leather (Cleaned)",
+      "value": 1500,
+      "category": "Hunting"
+    },
+    {
+      "id": 499,
+      "name": "Cormorant Feathers",
+      "value": 250,
+      "category": "Hunting"
+    },
+    {
+      "id": 500,
+      "name": "Cougar Pelt (Edged)",
+      "value": 2000,
+      "category": "Hunting"
+    },
+    {
+      "id": 501,
+      "name": "Deer Hide",
+      "value": 750,
+      "category": "Hunting"
+    },
+    {
+      "id": 502,
+      "name": "Coyote Pelt",
+      "value": 650,
+      "category": "Hunting"
+    },
+    {
+      "id": 503,
+      "name": "White Shell Necklace",
+      "value": 2350,
+      "category": "Hunting"
+    },
+    {
+      "id": 504,
+      "name": "Crow Down",
+      "value": 30,
+      "category": "Hunting"
+    },
+    {
+      "id": 505,
+      "name": "Leather Creasing Tool",
+      "value": 500,
+      "category": "Hunting"
+    },
+    {
+      "id": 506,
+      "name": "Cormorant Down",
+      "value": 280,
+      "category": "Hunting"
+    },
+    {
+      "id": 507,
+      "name": "Animal Leather (Pristine)",
+      "value": 3000,
+      "category": "Hunting"
+    },
+    {
+      "id": 508,
+      "name": "Coyote Pelt (Flayed)",
+      "value": 900,
+      "category": "Hunting"
+    },
+    {
+      "id": 509,
+      "name": "Dreamcatcher (Fortune)",
+      "value": 17200,
+      "category": "Hunting"
+    },
+    {
+      "id": 510,
+      "name": "Orca Tooth",
+      "value": 1000,
+      "category": "Hunting"
+    },
+    {
+      "id": 511,
+      "name": "Boar Hide (Flayed)",
+      "value": 1250,
+      "category": "Hunting"
+    },
+    {
+      "id": 512,
+      "name": "Deer Hide (Edged)",
+      "value": 1250,
+      "category": "Hunting"
+    },
+    {
+      "id": 513,
+      "name": "Shark Flesh",
+      "value": 250,
+      "category": "Hunting"
+    },
+    {
+      "id": 514,
+      "name": "Hawk Feathers",
+      "value": 120,
+      "category": "Hunting"
+    },
+    {
+      "id": 515,
+      "name": "Cougar Pelt",
+      "value": 1500,
+      "category": "Hunting"
+    },
+    {
+      "id": 516,
+      "name": "Antlers",
+      "value": 950,
+      "category": "Hunting"
+    },
+    {
+      "id": 517,
+      "name": "Dreamcatcher (Clarity)",
+      "value": 14200,
+      "category": "Hunting"
+    },
+    {
+      "id": 518,
+      "name": "Rabbit Meat",
+      "value": 270,
+      "category": "Hunting"
+    },
+    {
+      "id": 519,
+      "name": "Hawk Down",
+      "value": 150,
+      "category": "Hunting"
+    },
+    {
+      "id": 520,
+      "name": "Crow Feathers",
+      "value": 80,
+      "category": "Hunting"
+    },
+    {
+      "id": 521,
+      "name": "Turtle Meat",
+      "value": 700,
+      "category": "Hunting"
+    },
+    {
+      "id": 522,
+      "name": "Boar Hide (Pristine)",
+      "value": 2750,
+      "category": "Hunting"
+    },
+    {
+      "id": 523,
+      "name": "Leather Stripping Tool",
+      "value": 800,
+      "category": "Hunting"
+    },
+    {
+      "id": 524,
+      "name": "Flesh Knife",
+      "value": 900,
+      "category": "Hunting"
+    },
+    {
+      "id": 526,
+      "name": "Rabbit Pelt (Edged)",
+      "value": 1000,
+      "category": "Hunting"
+    },
+    {
+      "id": 527,
+      "name": "Rainbow Shell Necklace",
+      "value": 1950,
+      "category": "Hunting"
+    },
+    {
+      "id": 528,
+      "name": "Animal Leather Strips (Dyed)",
+      "value": 1000,
+      "category": "Hunting"
+    },
+    {
+      "id": 529,
+      "name": "Shark Fin",
+      "value": 1250,
+      "category": "Hunting"
+    },
+    {
+      "id": 530,
+      "name": "Rabbit Pelt (Flayed)",
+      "value": 850,
+      "category": "Hunting"
+    },
+    {
+      "id": 531,
+      "name": "Hemp Oil Animal Shampoo",
+      "value": 150,
+      "category": "Hunting"
+    },
+    {
+      "id": 532,
+      "name": "Stingray Flesh",
+      "value": 300,
+      "category": "Hunting"
+    },
+    {
+      "id": 533,
+      "name": "Shark Tooth Necklace",
+      "value": 1850,
+      "category": "Hunting"
+    },
+    {
+      "id": 534,
+      "name": "Coyote Pelt (Pristine)",
+      "value": 2500,
+      "category": "Hunting"
+    },
+    {
+      "id": 535,
+      "name": "Rabbit Pelt",
+      "value": 580,
+      "category": "Hunting"
+    },
+    {
+      "id": 536,
+      "name": "Cougar Tooth",
+      "value": 550,
+      "category": "Hunting"
+    },
+    {
+      "id": 537,
+      "name": "Cougar Tooth Necklace",
+      "value": 1350,
+      "category": "Hunting"
+    },
+    {
+      "id": 539,
+      "name": "Rabbit Foot",
+      "value": 300,
+      "category": "Hunting"
+    },
+    {
+      "id": 540,
+      "name": "Boar Meat",
+      "value": 250,
+      "category": "Hunting"
+    },
+    {
+      "id": 541,
+      "name": "Animal Leather (Edged)",
+      "value": 1300,
+      "category": "Hunting"
+    },
+    {
+      "id": 542,
+      "name": "Raw Leather Hide",
+      "value": 300,
+      "category": "Hunting"
+    },
+    {
+      "id": 543,
+      "name": "Deer Hide (Pristine)",
+      "value": 2400,
+      "category": "Hunting"
+    },
+    {
+      "id": 544,
+      "name": "Deer Hide (Flayed)",
+      "value": 1000,
+      "category": "Hunting"
+    },
+    {
+      "id": 545,
+      "name": "Rabbit Pelt (Pristine)",
+      "value": 2000,
+      "category": "Hunting"
+    },
+    {
+      "id": 546,
+      "name": "Shark Tooth",
+      "value": 900,
+      "category": "Hunting"
+    },
+    {
+      "id": 547,
+      "name": "Rabbit Foot Keychain",
+      "value": 500,
+      "category": "Hunting"
+    },
+    {
+      "id": 548,
+      "name": "Dreamcatcher (Strength)",
+      "value": 28000,
+      "category": "Hunting"
+    },
+    {
+      "id": 549,
+      "name": "Boar Hide",
+      "value": 1000,
+      "category": "Hunting"
+    },
+    {
+      "id": 550,
+      "name": "Turtle Shell",
+      "value": 2200,
+      "category": "Hunting"
+    },
+    {
+      "id": 551,
+      "name": "Cougar Pelt (Flayed)",
+      "value": 1750,
+      "category": "Hunting"
+    },
+    {
+      "id": 552,
+      "name": "Coyote Meat",
+      "value": 300,
+      "category": "Hunting"
+    },
+    {
+      "id": 553,
+      "name": "Leather Prickingwheel",
+      "value": 500,
+      "category": "Hunting"
+    },
+    {
+      "id": 554,
+      "name": "Leather Dye (Black)",
+      "value": 500,
+      "category": "Hunting"
+    },
+    {
+      "id": 555,
+      "name": "Cougar Meat",
+      "value": 350,
+      "category": "Hunting"
+    },
+    {
+      "id": 556,
+      "name": "Whale Fat",
+      "value": 270,
+      "category": "Hunting"
+    },
+    {
+      "id": 557,
+      "name": "Boar Tusk",
+      "value": 240,
+      "category": "Hunting"
+    },
+    {
+      "id": 558,
+      "name": "Boar Hide (Edged)",
+      "value": 1500,
+      "category": "Hunting"
+    },
+    {
+      "id": 559,
+      "name": "Cougar Pelt (Pristine)",
+      "value": 3100,
+      "category": "Hunting"
+    },
+    {
+      "id": 560,
+      "name": "Coyote Pelt (Edged)",
+      "value": 1150,
+      "category": "Hunting"
+    },
+    {
+      "id": 561,
+      "name": "Dyed Animal Leather (Pristine)",
+      "value": 3680,
+      "category": "Hunting"
+    },
+    {
+      "id": 562,
+      "name": "Venison",
+      "value": 125,
+      "category": "Hunting"
+    },
+    {
+      "id": 564,
+      "name": "Black Pearl",
+      "value": 7000,
+      "category": "Hunting"
+    },
+    {
+      "id": 565,
+      "name": "Pippy Shell Half",
+      "value": 70,
+      "category": "Hunting"
+    },
+    {
+      "id": 566,
+      "name": "Prawn Bait (Grade 2)",
+      "value": 20,
+      "category": "Hunting"
+    },
+    {
+      "id": 567,
+      "name": "Game Bait (Grade 4)",
+      "value": 40,
+      "category": "Hunting"
+    },
+    {
+      "id": 568,
+      "name": "Plugs Bait (Grade 3)",
+      "value": 30,
+      "category": "Hunting"
+    },
+    {
+      "id": 569,
+      "name": "Basic Lure (Grade 2)",
+      "value": 20,
+      "category": "Hunting"
+    },
+    {
+      "id": 570,
+      "name": "Oyster Meat",
+      "value": 15,
+      "category": "Hunting"
+    },
+    {
+      "id": 572,
+      "name": "Seaworm Bait (Grade 3)",
+      "value": 30,
+      "category": "Hunting"
+    },
+    {
+      "id": 573,
+      "name": "Squid Bait (Grade 4)",
+      "value": 40,
+      "category": "Hunting"
+    },
+    {
+      "id": 574,
+      "name": "Basic Lure (Grade 1)",
+      "value": 10,
+      "category": "Hunting"
+    },
+    {
+      "id": 575,
+      "name": "Scollop Shell",
+      "value": 50,
+      "category": "Hunting"
+    },
+    {
+      "id": 576,
+      "name": "Shiny Sea Snail Shell",
+      "value": 85,
+      "category": "Hunting"
+    },
+    {
+      "id": 577,
+      "name": "Pippy Shell Opened",
+      "value": 80,
+      "category": "Hunting"
+    },
+    {
+      "id": 578,
+      "name": "Old Hermit Shell",
+      "value": 60,
+      "category": "Hunting"
+    },
+    {
+      "id": 579,
+      "name": "Plugs Bait (Grade 2)",
+      "value": 20,
+      "category": "Hunting"
+    },
+    {
+      "id": 580,
+      "name": "Rainbow Pippy Shell",
+      "value": 100,
+      "category": "Hunting"
+    },
+    {
+      "id": 581,
+      "name": "Basic Lure (Grade 3)",
+      "value": 30,
+      "category": "Hunting"
+    },
+    {
+      "id": 582,
+      "name": "Pearl",
+      "value": 5000,
+      "category": "Hunting"
+    }
+  ],
+  "lastId": 583
+}
